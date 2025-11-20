@@ -1,5 +1,5 @@
 # Hey, I'm Robert 👋
-**First-year CS student at Leeds | Durhack 2025 Marshall Wace Award Winner | Curious about quant systems, data infra, and how markets behave**
+**First-year CS student at Leeds | Durhack 2025 Marshall Wace Award Winner | Curious about building solutions to real world problems**
 # 💫 About Me:
 🔭 **I'm currently working on** an evacuation simulation system that uses genetic algorithms/brute force to optimize emergency exit placement in buildings - combining geospatial data, graph theory, and agent-based modeling to solve real-world safety problems<br>👯 **I'm looking to collaborate on** projects involving data systems, optimization algorithms, simulation modeling, or anything where I can build something impactful and learn new tech<br>💬 **Ask me about** my process of decompiling a PyArmor 2 protected app to source code, winning hackathons as a first-year, building a financial data lake, or how I automatinga  30-hour database migration in Python<br>⚡ **Fun fact:** I led a team to win a national entrepreneurship competition and donated all €2,100 in profits to charity. Also somehow survived a 24-hour hackathon on 2 hours of sleep to beat 67 other teams in our track
 
