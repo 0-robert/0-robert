@@ -1,5 +1,8 @@
 # Hey, I'm Robert 👋
 **first-year CS student @ UoL | 4x hackathon winner | addicted to building**
+
+roberthq.com
+
 # 💫 About Me:
 🔭 **I'm currently working on** BiteSwipe: Turning "what should I cook?" into a 10-second swipe. AI-powered cooking workflow automation for students who'd rather cook than scroll endless recipes.<br>👯 **I'm looking to collaborate on** projects involving data systems, optimization algorithms, simulation modeling, or anything where I can build something impactful and learn new tech<br>💬 **Ask me about** my process of decompiling a PyArmor 2 protected app to source code, winning hackathons as a first-year, building a financial data lake, or how I automatinga  30-hour database migration in Python<br>⚡ **Fun fact:** I led a team to both €2.6k profit and to win a national entrepreneurship competition at the age of 17. Also somehow survived a 24-hour hackathon on 2 hours of sleep to beat 67 other teams in our track
 
